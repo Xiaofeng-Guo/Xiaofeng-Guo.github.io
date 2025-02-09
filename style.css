@@ -243,8 +243,8 @@ h2 {
 /* Publication details (thumbnail media, title, and description). */
 
 .thumbnail {
-/*  width: 21%;*/
-  width: 18%;
+  width: 28%;
+  /* width: 18%; */
   float: left;
   margin-right: 2%;
 }
@@ -291,7 +291,7 @@ h3 a:hover {
 }
 
 .project-description {
-  width: 80%;
+  width: 70%;
   float: left;
 }
 
